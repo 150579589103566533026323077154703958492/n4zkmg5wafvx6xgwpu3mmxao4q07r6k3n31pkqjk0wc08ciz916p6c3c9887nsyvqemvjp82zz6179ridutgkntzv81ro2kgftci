@@ -7,8 +7,7 @@ just minor fix for me and someone
 
 
 # install
-1. installed folder
-   blender 4.1\4.1\scripts\startup\bl_ui\
+1. blender 4.1\4.1\scripts\startup\bl_ui\
 2. **backup "properties_data_modifier.py" file** before overwrite
 3. overwrite it
 
