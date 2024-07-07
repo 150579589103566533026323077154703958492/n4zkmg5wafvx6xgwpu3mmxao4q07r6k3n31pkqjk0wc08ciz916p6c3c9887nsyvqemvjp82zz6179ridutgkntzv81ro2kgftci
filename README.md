@@ -1,5 +1,5 @@
 
-# blender modify menu for v4.1+
+# modify menu for 4.1+
 
 ![image](https://github.com/734653/4356262214/assets/43321355/bab73c35-d423-4927-8aae-3146c9006650)
 
